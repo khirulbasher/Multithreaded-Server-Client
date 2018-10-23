@@ -1,0 +1,3 @@
+rootProject.name = "Multithreaded-Server-Client"
+include ':Server'
+include ':Client'
